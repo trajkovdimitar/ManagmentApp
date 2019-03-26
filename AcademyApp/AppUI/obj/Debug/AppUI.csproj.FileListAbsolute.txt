@@ -1,0 +1,10 @@
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\bin\Debug\AppUI.exe.config
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\bin\Debug\AppUI.exe
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\bin\Debug\AppUI.pdb
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\bin\Debug\Entities.dll
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\bin\Debug\Entities.pdb
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\obj\Debug\AppUI.csprojAssemblyReference.cache
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\obj\Debug\AppUI.csproj.CopyComplete
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\obj\Debug\AppUI.exe
+C:\Users\trajk\Downloads\sedc7-05-oopcsharp-master\sedc7-05-oopcsharp-master\g5\AcademyApp\AppUI\obj\Debug\AppUI.pdb
